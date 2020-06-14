@@ -1,0 +1,16 @@
+{
+    "name": "thisisit2",
+    "version": "1.0.0",
+    "description": "",
+    "main": "main.js",
+    "scripts": {
+        "deploy": "gh-pages -d dist"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "homepage": "https://coderedexe.github.io/mywebsite0",
+    "dependencies": {
+        "gh-pages": "^3.0.0"
+    }
+}
